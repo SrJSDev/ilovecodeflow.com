@@ -2,7 +2,6 @@
 
 Do you love [Codeflow](https://developer.stackblitz.com/codeflow/what-is-codeflow)? We do!
 
-
 ## What is Codeflow?
 
 Codeflow is a one-click integration with GitHub for seamless coding workflows.
@@ -23,4 +22,5 @@ Excited to try it yourself? Try these:
 - 🤖 See our CodeflowApp bot in action on [a PR](https://github.com/stackblitz/docs/pull/40#issue-1404169268)!
 
 ---
+
 This site was built with [Astro](https://astro.build/) 💙
